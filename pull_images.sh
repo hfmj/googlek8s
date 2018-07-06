@@ -11,7 +11,7 @@ ETCD_VERSION=3.2.18
 CORE_DNS_VERSION=1.1.3
 
 GCR_URL=k8s.gcr.io
-PRIVATE_URL=registry.cn-shenzhen.aliyuncs.com/cookcodeblog
+PRIVATE_URL=majun1980
 
 images=(kube-proxy-amd64:${KUBE_VERSION}
 kube-scheduler-amd64:${KUBE_VERSION}
