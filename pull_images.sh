@@ -17,7 +17,7 @@ images=(kube-proxy-amd64:${KUBE_VERSION}
 kube-scheduler-amd64:${KUBE_VERSION}
 kube-controller-manager-amd64:${KUBE_VERSION}
 kube-apiserver-amd64:${KUBE_VERSION}
-pause-amd64:${KUBE_PAUSE_VERSION}
+pause:${KUBE_PAUSE_VERSION}
 etcd-amd64:${ETCD_VERSION}
 coredns:${CORE_DNS_VERSION})
 
